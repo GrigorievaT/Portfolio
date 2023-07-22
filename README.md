@@ -28,7 +28,6 @@
   6. Отчет о тестировании:
      - принято решение о готовности личных событий
      - с учетом регрессионного тестирование было принято полноценное решение: можно ли выпускать весь продукт на пользователей (портал)?
-           
   #### [Проект 1](https://docs.google.com/document/d/1hQemTXwONrR30YhFH0o-So2obdvH33iPVvRJggsKOkY/edit)
 
 
@@ -53,5 +52,4 @@
      - все найденые баги заведены в Jira
   8. Отчет о тестировании:
      - принято решение о готовности продукта к релизу
-
-#### [Проект 2](https://docs.google.com/document/d/10mEpkI64rPmf4FPqqOidMnFmRfumyiYssv4k8Uo3rzE/edit)
+  #### [Проект 2](https://docs.google.com/document/d/10mEpkI64rPmf4FPqqOidMnFmRfumyiYssv4k8Uo3rzE/edit)
