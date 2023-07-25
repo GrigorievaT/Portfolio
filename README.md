@@ -1,4 +1,5 @@
   # Портфолио: инженер по тестированию ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/e3c2bdf1-017a-41dd-8447-7a5d49ad40f7)
+![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/3f60c967-72a9-4c1d-866a-34fc0b15d699)
 
 ### Привет, я Татьяна - начинающий тестировщик. 
 ### Здесь можно познакомиться с проектами, которые я выполняла.
