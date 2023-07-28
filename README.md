@@ -58,10 +58,7 @@
      - принято решение о готовности продукта к релизу
   #### [Проект 2](https://docs.google.com/document/d/10mEpkI64rPmf4FPqqOidMnFmRfumyiYssv4k8Uo3rzE/edit)
 
-   #### Инструменты: ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/b7bcbc82-7f89-42e5-8b61-bc3a26513af6)  ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/73bab559-164b-4245-bf99-eb9649966f4f)   ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/a61f6350-c093-428f-997e-d07a7a561965) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/da6c4ff4-bcd6-41c7-821f-b0c21f9c833c) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/1c94d8cb-334d-442e-9299-6858c670a14f)
-
-
-
+   #### Инструменты: ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/b7bcbc82-7f89-42e5-8b61-bc3a26513af6)  ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/73bab559-164b-4245-bf99-eb9649966f4f)   ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/a61f6350-c093-428f-997e-d07a7a561965) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/1c94d8cb-334d-442e-9299-6858c670a14f) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/0f785d6f-bcfd-4f21-b92f-bca05da66bef)
 
 
   ### 3. Тестирование веб-приложения для учителей и мобильного приложения для учеников от Skyeng, раздел "Видеопрактика"
@@ -89,5 +86,6 @@
       - основываясь на результатах тестирования принято решение о готовности продукта к релизу
    #### [Проект 3](https://docs.google.com/document/d/1jNTICcRaf2-OtjavKkVnlL8BA1dU82HvHawqome36Wc/edit)   
 
- #### Инструменты: ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/b7bcbc82-7f89-42e5-8b61-bc3a26513af6)  ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/73bab559-164b-4245-bf99-eb9649966f4f)   ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/a61f6350-c093-428f-997e-d07a7a561965)  ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/da6c4ff4-bcd6-41c7-821f-b0c21f9c833c) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/01e46b91-9f7c-4ebd-a702-7c9aca323ac8)
+ #### Инструменты: ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/b7bcbc82-7f89-42e5-8b61-bc3a26513af6)  ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/73bab559-164b-4245-bf99-eb9649966f4f)   ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/a61f6350-c093-428f-997e-d07a7a561965)  ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/da6c4ff4-bcd6-41c7-821f-b0c21f9c833c) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/01e46b91-9f7c-4ebd-a702-7c9aca323ac8) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/0f785d6f-bcfd-4f21-b92f-bca05da66bef)
+
 
