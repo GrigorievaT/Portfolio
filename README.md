@@ -30,7 +30,7 @@
      - с учетом регрессионного тестирования было принято полноценное решение: можно ли выпускать весь продукт на пользователей (портал)?
   #### [Проект 1](https://docs.google.com/document/d/1hQemTXwONrR30YhFH0o-So2obdvH33iPVvRJggsKOkY/edit?usp=drive_link)
  
-  #### Инструменты:![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fqase.io%2F&psig=AOvVaw0OE3FzSXk9eyu1hfL7pZbp&ust=1690634142442000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjouI21sYADFQAAAAAdAAAAABAE)
+  #### Инструменты:![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/bdd3be5a-c709-4bd9-b4fb-9616eeb62d9a)
 
 
 ### 2. Тестирование мобильного приложения Skyeng для изучения английского языка, разделы “Ситуации” и “Видеопрактика”
