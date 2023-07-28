@@ -30,7 +30,8 @@
      - с учетом регрессионного тестирования было принято полноценное решение: можно ли выпускать весь продукт на пользователей (портал)?
   #### [Проект 1](https://docs.google.com/document/d/1hQemTXwONrR30YhFH0o-So2obdvH33iPVvRJggsKOkY/edit?usp=drive_link)
  
-  #### Инструменты: ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/b7bcbc82-7f89-42e5-8b61-bc3a26513af6)
+  #### Инструменты: ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/b7bcbc82-7f89-42e5-8b61-bc3a26513af6) ![image](https://github.com/GrigorievaT/Portfolio/assets/123193126/15c3c986-815c-43d0-a829-07dfb313df81)
+
 
 
 
